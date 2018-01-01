@@ -83,7 +83,7 @@ contract LiraeToken is ERC20Interface, Owned, SafeMath {
         symbol = "LIRA";
         name = "BitLIRA";
         decimals = 0;
-        _rate = 1161;
+        _rate = 1200;
         _totalSupply = 128457000000000;
 
         balances[msg.sender] = _totalSupply;
