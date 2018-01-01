@@ -6,7 +6,7 @@ This code provides ERC20-TOKEN Ethereum
 
 | Total Supply  | 128.457.000.000.000 BitLIRA           
 | ------------- |:-------------|
-| Conversion Rate      | 1161 BitLIRA each 1 Finney      |
+| Conversion Rate      | 1200 BitLIRA each 1 Finney      |
 | Mininum Ether Amount      | 0.001 ETH      |
 
 To get your BitLIRA send your Ether to this Smart Contract Address. 
