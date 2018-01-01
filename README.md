@@ -4,12 +4,12 @@ Welcome to the BitLIRA source code repository! BitLIRA provides a real hard fork
 
 This code provides ERC20-TOKEN Ethereum
 
-| Total Supply  | 128.457.000.000.000 BitLIRA           
+| Total Supply  | 128.457.000.000.000 LIRA           
 | ------------- |:-------------|
 | Conversion Rate      | 1200 BitLIRA each 1 Finney      |
 | Mininum Ether Amount      | 0.001 ETH      |
 
-To get your BitLIRA send your Ether to this Smart Contract Address. 
+To get your LIRA send your Ether to this Smart Contract Address. 
 
 ```
 0x1e33f1bd0b6ad333636c0ddcf16af57b6c0bae2e
